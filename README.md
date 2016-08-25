@@ -1,5 +1,10 @@
 # Planovac
-jednoduchy planovac pomoci Swingu
+simple weekly planner
+
+Java SE + Swing libs
+
+includes bugs, becouse JPanel not update corectly
 
 
-obsahuje bugy, jelikož JPanel není aktualizován korektně 
+
+![alt tag](https://raw.githubusercontent.com/schrek1/Planovac/master/pic1.png)
